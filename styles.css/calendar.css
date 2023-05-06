@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
+
+.whole{
+    background-color: #82b6b8;
+}
+
+#mainNav{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 110%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+
+.calendar{
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 10px;
+}
